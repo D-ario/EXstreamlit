@@ -9,9 +9,16 @@ Assurez-vous d'avoir installé les bibliothèques suivantes :
 -'streamlit'
 -'pillow'
 -'piexif'
+-'exifread'
 
 Vous pouvez installer les dépendances en utilisant les fichier 'requirements.txt'.
 
 ### Bash
 
 pip install -r requirements.txt
+
+
+# Utilisation
+
+Pour les données GPS il faut indiquer les valeurs sous la format " deg, min, sec ".
+Pour le temps d'exposition et d'ouverture si rien n'est notée il faut les indiquer sour la format " num/denom ".
