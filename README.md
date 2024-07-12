@@ -12,5 +12,6 @@ Assurez-vous d'avoir installé les bibliothèques suivantes :
 
 Vous pouvez installer les dépendances en utilisant les fichier 'requirements.txt'.
 
-'''bash
+### Bash
+
 pip install -r requirements.txt
