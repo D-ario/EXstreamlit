@@ -1,4 +1,12 @@
 streamlit
 pillow
+<<<<<<< HEAD
 piexif
 exifread
+=======
+exifread
+piexif
+folium
+streamlit_folium
+pandas
+>>>>>>> 7504060 (Sur la branche main)
