@@ -10,13 +10,9 @@ Assurez-vous d'avoir installé les bibliothèques suivantes :
 -'pillow'
 -'exifread'
 -'piexif'
-<<<<<<< HEAD
--'exifread'
-=======
 -'folium'
 -'streamlit_folium'
 -'pandas'
->>>>>>> 7504060 (Sur la branche main)
 
 Vous pouvez installer les dépendances en utilisant les fichier 'requirements.txt'.
 
