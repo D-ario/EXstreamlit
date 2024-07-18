@@ -1,3 +1,13 @@
+"""
+Nom ......... : Exercice 4.2
+Rôle ........ : changer les données EXIF d'une photo + carte
+Auteur ...... : Darius Pourre
+Version ..... : V1 du chapitre 4
+Licence ..... : L1 informatique 
+Cours ....... : Outils informatiques collaboratifs
+Compilation . : Streamlit
+"""
+
 import streamlit as st
 from PIL import Image
 import exifread
